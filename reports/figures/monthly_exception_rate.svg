@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="560" viewBox="0 0 1050 560" role="img" aria-label="Monthly exception rate">
+<style>text{font-family:Arial,sans-serif;fill:#172033}.g{stroke:#d5dae3}.b{fill:#2563eb}.a{font-size:11px}.v{font-size:11px;font-weight:bold}</style>
+<text x="100" y="32" font-size="20" font-weight="bold">Monthly exception rate</text>
+<text x="100" y="54" class="a">Exception rate</text>
+<line class="g" x1="100" y1="400.0" x2="1025" y2="400.0"/>
+<text class="a" x="92" y="404.0" text-anchor="end">0.0%</text>
+<line class="g" x1="100" y1="320.0" x2="1025" y2="320.0"/>
+<text class="a" x="92" y="324.0" text-anchor="end">25.0%</text>
+<line class="g" x1="100" y1="240.0" x2="1025" y2="240.0"/>
+<text class="a" x="92" y="244.0" text-anchor="end">50.0%</text>
+<line class="g" x1="100" y1="160.0" x2="1025" y2="160.0"/>
+<text class="a" x="92" y="164.0" text-anchor="end">75.0%</text>
+<line class="g" x1="100" y1="80.0" x2="1025" y2="80.0"/>
+<text class="a" x="92" y="84.0" text-anchor="end">100.0%</text>
+<rect class="b" x="112.0" y="314.4" width="45.1" height="85.6"/>
+<text class="v" x="134.5" y="307.4" text-anchor="middle">26.7%</text>
+<text class="a" x="134.5" y="435" text-anchor="end" transform="rotate(-35 134.5,435)">2026-01</text>
+<rect class="b" x="169.1" y="324.7" width="45.1" height="75.3"/>
+<text class="v" x="191.6" y="317.7" text-anchor="middle">23.5%</text>
+<text class="a" x="191.6" y="435" text-anchor="end" transform="rotate(-35 191.6,435)">2026-02</text>
+<rect class="b" x="226.1" y="324.6" width="45.1" height="75.4"/>
+<text class="v" x="248.7" y="317.6" text-anchor="middle">23.6%</text>
+<text class="a" x="248.7" y="435" text-anchor="end" transform="rotate(-35 248.7,435)">2026-03</text>
+<rect class="b" x="283.2" y="325.0" width="45.1" height="75.0"/>
+<text class="v" x="305.7" y="318.0" text-anchor="middle">23.4%</text>
+<text class="a" x="305.7" y="435" text-anchor="end" transform="rotate(-35 305.7,435)">2026-04</text>
+<rect class="b" x="340.2" y="324.2" width="45.1" height="75.8"/>
+<text class="v" x="362.8" y="317.2" text-anchor="middle">23.7%</text>
+<text class="a" x="362.8" y="435" text-anchor="end" transform="rotate(-35 362.8,435)">2026-05</text>
+<rect class="b" x="397.3" y="319.8" width="45.1" height="80.2"/>
+<text class="v" x="419.8" y="312.8" text-anchor="middle">25.1%</text>
+<text class="a" x="419.8" y="435" text-anchor="end" transform="rotate(-35 419.8,435)">2026-06</text>
+<rect class="b" x="454.4" y="289.2" width="45.1" height="110.8"/>
+<text class="v" x="476.9" y="282.2" text-anchor="middle">34.6%</text>
+<text class="a" x="476.9" y="435" text-anchor="end" transform="rotate(-35 476.9,435)">2026-07</text>
+<rect class="b" x="511.4" y="281.8" width="45.1" height="118.2"/>
+<text class="v" x="534.0" y="274.8" text-anchor="middle">36.9%</text>
+<text class="a" x="534.0" y="435" text-anchor="end" transform="rotate(-35 534.0,435)">2026-08</text>
+<rect class="b" x="568.5" y="338.3" width="45.1" height="61.7"/>
+<text class="v" x="591.0" y="331.3" text-anchor="middle">19.3%</text>
+<text class="a" x="591.0" y="435" text-anchor="end" transform="rotate(-35 591.0,435)">2026-09</text>
+<rect class="b" x="625.6" y="271.0" width="45.1" height="129.0"/>
+<text class="v" x="648.1" y="264.0" text-anchor="middle">40.3%</text>
+<text class="a" x="648.1" y="435" text-anchor="end" transform="rotate(-35 648.1,435)">2026-10</text>
+<rect class="b" x="682.6" y="80.0" width="45.1" height="320.0"/>
+<text class="v" x="705.2" y="73.0" text-anchor="middle">100.0%</text>
+<text class="a" x="705.2" y="435" text-anchor="end" transform="rotate(-35 705.2,435)">2026-11</text>
+<rect class="b" x="739.7" y="80.0" width="45.1" height="320.0"/>
+<text class="v" x="762.2" y="73.0" text-anchor="middle">100.0%</text>
+<text class="a" x="762.2" y="435" text-anchor="end" transform="rotate(-35 762.2,435)">2026-12</text>
+<rect class="b" x="796.8" y="80.0" width="45.1" height="320.0"/>
+<text class="v" x="819.3" y="73.0" text-anchor="middle">100.0%</text>
+<text class="a" x="819.3" y="435" text-anchor="end" transform="rotate(-35 819.3,435)">2027-01</text>
+<rect class="b" x="853.8" y="80.0" width="45.1" height="320.0"/>
+<text class="v" x="876.3" y="73.0" text-anchor="middle">100.0%</text>
+<text class="a" x="876.3" y="435" text-anchor="end" transform="rotate(-35 876.3,435)">2027-02</text>
+<rect class="b" x="910.9" y="80.0" width="45.1" height="320.0"/>
+<text class="v" x="933.4" y="73.0" text-anchor="middle">100.0%</text>
+<text class="a" x="933.4" y="435" text-anchor="end" transform="rotate(-35 933.4,435)">2027-03</text>
+<rect class="b" x="967.9" y="80.0" width="45.1" height="320.0"/>
+<text class="v" x="990.5" y="73.0" text-anchor="middle">100.0%</text>
+<text class="a" x="990.5" y="435" text-anchor="end" transform="rotate(-35 990.5,435)">2027-04</text>
+</svg>

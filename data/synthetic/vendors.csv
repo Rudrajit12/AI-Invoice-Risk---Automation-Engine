@@ -1,0 +1,501 @@
+vendor_id,vendor_name,category,vendor_since,payment_terms_days,status
+V0001,Apex Systems Pvt Ltd,Professional Services,2024-10-08,15,Active
+V0002,Fusion Systems Pvt Ltd,Marketing,2023-08-30,30,Active
+V0003,Global Supplies Pvt Ltd,Logistics,2023-08-31,15,Active
+V0004,Jupiter Services Pvt Ltd,Utilities,2023-09-03,30,Active
+V0005,Global Solutions Pvt Ltd,IT Services,2025-01-25,45,Active
+V0006,Indus Enterprises Pvt Ltd,Manufacturing,2025-06-18,45,Active
+V0007,Bluewave Enterprises Pvt Ltd,Professional Services,2024-11-13,60,Active
+V0008,Crest Logistics Pvt Ltd,Utilities,2024-04-03,60,Active
+V0009,Delta Solutions Pvt Ltd,Facilities,2025-10-06,30,Active
+V0010,Fusion Enterprises Pvt Ltd,Professional Services,2025-05-28,60,Active
+V0011,Bluewave Services Pvt Ltd,Marketing,2018-09-21,30,Active
+V0012,Fusion Systems Pvt Ltd,Manufacturing,2022-07-30,60,Active
+V0013,Crest Components Pvt Ltd,Facilities,2022-01-17,30,Active
+V0014,Indus Enterprises Pvt Ltd,Manufacturing,2020-12-18,30,Active
+V0015,Jupiter Components Pvt Ltd,Facilities,2020-04-23,60,Active
+V0016,Evergreen Logistics Pvt Ltd,Logistics,2023-12-14,45,Active
+V0017,Fusion Enterprises Pvt Ltd,Logistics,2018-01-29,30,Active
+V0018,Apex Solutions Pvt Ltd,Facilities,2021-04-18,45,Active
+V0019,Horizon Solutions Pvt Ltd,Utilities,2019-03-27,30,Active
+V0020,Fusion Logistics Pvt Ltd,Manufacturing,2019-10-26,30,Active
+V0021,Fusion Services Pvt Ltd,Logistics,2023-07-25,30,Active
+V0022,Horizon Components Pvt Ltd,Manufacturing,2024-03-06,60,Active
+V0023,Indus Components Pvt Ltd,Professional Services,2025-01-21,15,Active
+V0024,Jupiter Solutions Pvt Ltd,Facilities,2023-09-12,60,Blocked
+V0025,Evergreen Solutions Pvt Ltd,Professional Services,2018-11-13,30,Active
+V0026,Jupiter Industries Pvt Ltd,Logistics,2021-06-26,30,Active
+V0027,Crest Supplies Pvt Ltd,Facilities,2022-03-21,45,Active
+V0028,Fusion Enterprises Pvt Ltd,Office Supplies,2024-01-21,30,Active
+V0029,Fusion Industries Pvt Ltd,Professional Services,2021-04-25,60,Active
+V0030,Fusion Components Pvt Ltd,IT Services,2023-08-09,15,Active
+V0031,Delta Solutions Pvt Ltd,IT Services,2025-05-04,30,Active
+V0032,Bluewave Components Pvt Ltd,Manufacturing,2023-03-10,30,Active
+V0033,Indus Logistics Pvt Ltd,Facilities,2019-12-25,15,Active
+V0034,Apex Solutions Pvt Ltd,Manufacturing,2020-10-02,45,Active
+V0035,Apex Supplies Pvt Ltd,Facilities,2023-09-10,45,Active
+V0036,Crest Solutions Pvt Ltd,Facilities,2020-02-14,45,Active
+V0037,Crest Industries Pvt Ltd,Manufacturing,2022-08-08,30,Active
+V0038,Horizon Enterprises Pvt Ltd,Marketing,2020-04-12,60,Active
+V0039,Apex Components Pvt Ltd,IT Services,2024-09-09,45,Active
+V0040,Delta Supplies Pvt Ltd,Facilities,2024-01-02,60,Active
+V0041,Apex Supplies Pvt Ltd,Facilities,2022-05-27,30,Active
+V0042,Indus Enterprises Pvt Ltd,Manufacturing,2021-09-29,30,Active
+V0043,Apex Solutions Pvt Ltd,IT Services,2023-07-05,60,Active
+V0044,Global Industries Pvt Ltd,Office Supplies,2024-04-08,60,Active
+V0045,Indus Industries Pvt Ltd,Manufacturing,2024-03-04,45,Active
+V0046,Delta Enterprises Pvt Ltd,Office Supplies,2018-05-27,30,Blocked
+V0047,Global Systems Pvt Ltd,Manufacturing,2023-01-19,45,Active
+V0048,Bluewave Industries Pvt Ltd,Utilities,2022-12-09,45,Active
+V0049,Evergreen Logistics Pvt Ltd,Marketing,2022-02-23,30,Active
+V0050,Global Components Pvt Ltd,Manufacturing,2020-01-08,30,Active
+V0051,Jupiter Industries Pvt Ltd,Logistics,2018-04-04,45,Active
+V0052,Apex Logistics Pvt Ltd,Utilities,2021-01-29,30,Active
+V0053,Bluewave Services Pvt Ltd,Professional Services,2021-06-04,30,Active
+V0054,Global Services Pvt Ltd,Utilities,2020-09-16,15,Active
+V0055,Bluewave Enterprises Pvt Ltd,Marketing,2023-01-19,30,Active
+V0056,Evergreen Enterprises Pvt Ltd,Manufacturing,2019-03-19,30,Active
+V0057,Jupiter Components Pvt Ltd,IT Services,2022-06-08,45,Active
+V0058,Delta Logistics Pvt Ltd,Facilities,2020-01-13,45,Active
+V0059,Global Industries Pvt Ltd,IT Services,2025-04-04,45,Active
+V0060,Evergreen Industries Pvt Ltd,Marketing,2021-02-03,30,Blocked
+V0061,Delta Industries Pvt Ltd,Office Supplies,2019-03-03,60,Active
+V0062,Apex Components Pvt Ltd,Utilities,2019-11-04,45,Active
+V0063,Fusion Enterprises Pvt Ltd,Office Supplies,2022-08-28,60,Active
+V0064,Apex Logistics Pvt Ltd,Office Supplies,2021-06-03,45,Active
+V0065,Indus Industries Pvt Ltd,Marketing,2025-01-12,45,Active
+V0066,Fusion Services Pvt Ltd,Utilities,2021-08-14,30,Active
+V0067,Apex Supplies Pvt Ltd,Office Supplies,2020-12-13,60,Active
+V0068,Delta Systems Pvt Ltd,Professional Services,2022-06-17,30,Active
+V0069,Delta Systems Pvt Ltd,Logistics,2019-04-15,45,Active
+V0070,Jupiter Industries Pvt Ltd,Logistics,2022-02-01,60,Active
+V0071,Horizon Enterprises Pvt Ltd,Marketing,2024-02-14,30,Active
+V0072,Bluewave Logistics Pvt Ltd,Office Supplies,2021-03-02,30,Active
+V0073,Evergreen Solutions Pvt Ltd,Utilities,2019-09-04,15,Active
+V0074,Crest Industries Pvt Ltd,Manufacturing,2020-06-15,45,Active
+V0075,Delta Services Pvt Ltd,Manufacturing,2021-03-07,60,Active
+V0076,Apex Systems Pvt Ltd,Manufacturing,2020-03-16,45,Active
+V0077,Evergreen Components Pvt Ltd,Marketing,2020-06-08,60,Inactive
+V0078,Bluewave Systems Pvt Ltd,Professional Services,2025-12-18,30,Active
+V0079,Crest Services Pvt Ltd,Logistics,2019-07-26,15,Active
+V0080,Indus Industries Pvt Ltd,Professional Services,2022-07-23,15,Active
+V0081,Fusion Solutions Pvt Ltd,Professional Services,2019-11-01,60,Active
+V0082,Horizon Supplies Pvt Ltd,Logistics,2023-06-27,30,Active
+V0083,Indus Enterprises Pvt Ltd,Facilities,2024-03-03,45,Active
+V0084,Horizon Systems Pvt Ltd,Professional Services,2025-03-25,45,Active
+V0085,Delta Solutions Pvt Ltd,Logistics,2024-09-15,30,Active
+V0086,Jupiter Solutions Pvt Ltd,IT Services,2024-07-24,15,Active
+V0087,Bluewave Supplies Pvt Ltd,Office Supplies,2025-12-09,60,Active
+V0088,Apex Systems Pvt Ltd,Facilities,2023-02-06,30,Active
+V0089,Fusion Solutions Pvt Ltd,Professional Services,2021-02-26,30,Active
+V0090,Horizon Supplies Pvt Ltd,Utilities,2020-05-01,30,Active
+V0091,Evergreen Systems Pvt Ltd,Facilities,2024-08-21,15,Active
+V0092,Apex Supplies Pvt Ltd,IT Services,2025-06-17,60,Active
+V0093,Delta Solutions Pvt Ltd,Facilities,2024-11-30,30,Active
+V0094,Evergreen Enterprises Pvt Ltd,Manufacturing,2023-01-16,30,Active
+V0095,Global Solutions Pvt Ltd,IT Services,2021-05-13,30,Active
+V0096,Global Components Pvt Ltd,Office Supplies,2022-11-30,60,Active
+V0097,Crest Components Pvt Ltd,Utilities,2025-06-02,45,Active
+V0098,Global Enterprises Pvt Ltd,IT Services,2024-03-09,30,Active
+V0099,Horizon Systems Pvt Ltd,Professional Services,2025-02-28,30,Active
+V0100,Fusion Components Pvt Ltd,Logistics,2023-08-30,60,Active
+V0101,Apex Components Pvt Ltd,IT Services,2022-11-05,60,Active
+V0102,Jupiter Systems Pvt Ltd,Professional Services,2025-03-09,45,Active
+V0103,Global Logistics Pvt Ltd,Office Supplies,2018-03-12,15,Active
+V0104,Apex Solutions Pvt Ltd,Office Supplies,2021-07-25,45,Active
+V0105,Global Solutions Pvt Ltd,Professional Services,2023-05-12,60,Active
+V0106,Crest Systems Pvt Ltd,Professional Services,2024-04-28,30,Active
+V0107,Bluewave Systems Pvt Ltd,Utilities,2025-12-08,30,Active
+V0108,Fusion Components Pvt Ltd,Logistics,2024-12-07,15,Inactive
+V0109,Bluewave Enterprises Pvt Ltd,Facilities,2024-02-08,30,Active
+V0110,Jupiter Logistics Pvt Ltd,Professional Services,2024-10-18,45,Active
+V0111,Fusion Solutions Pvt Ltd,Professional Services,2021-04-08,30,Active
+V0112,Horizon Services Pvt Ltd,Marketing,2025-02-10,30,Active
+V0113,Indus Industries Pvt Ltd,Facilities,2018-06-18,30,Active
+V0114,Indus Services Pvt Ltd,IT Services,2019-06-26,30,Inactive
+V0115,Apex Components Pvt Ltd,Marketing,2024-02-19,15,Active
+V0116,Evergreen Logistics Pvt Ltd,Logistics,2024-08-13,30,Active
+V0117,Fusion Supplies Pvt Ltd,Office Supplies,2018-09-18,45,Active
+V0118,Crest Enterprises Pvt Ltd,Logistics,2022-04-29,30,Active
+V0119,Global Systems Pvt Ltd,IT Services,2020-08-26,30,Active
+V0120,Delta Enterprises Pvt Ltd,Marketing,2022-04-20,30,Active
+V0121,Delta Systems Pvt Ltd,Logistics,2022-08-03,45,Active
+V0122,Indus Services Pvt Ltd,Professional Services,2022-11-12,60,Active
+V0123,Fusion Solutions Pvt Ltd,IT Services,2019-01-02,45,Active
+V0124,Apex Supplies Pvt Ltd,Facilities,2025-11-27,30,Active
+V0125,Apex Supplies Pvt Ltd,Logistics,2020-08-11,30,Active
+V0126,Global Systems Pvt Ltd,Office Supplies,2021-02-21,30,Active
+V0127,Global Components Pvt Ltd,Logistics,2020-03-23,15,Active
+V0128,Jupiter Logistics Pvt Ltd,Office Supplies,2018-09-19,30,Active
+V0129,Apex Supplies Pvt Ltd,Logistics,2025-06-06,15,Active
+V0130,Evergreen Supplies Pvt Ltd,Professional Services,2025-06-10,60,Active
+V0131,Indus Logistics Pvt Ltd,Facilities,2023-02-15,30,Active
+V0132,Bluewave Supplies Pvt Ltd,Professional Services,2020-09-28,60,Active
+V0133,Global Enterprises Pvt Ltd,Utilities,2025-07-21,30,Active
+V0134,Bluewave Systems Pvt Ltd,Marketing,2020-02-04,30,Active
+V0135,Horizon Logistics Pvt Ltd,Marketing,2022-02-26,30,Active
+V0136,Global Components Pvt Ltd,Office Supplies,2022-02-25,45,Active
+V0137,Apex Supplies Pvt Ltd,Utilities,2021-11-17,30,Blocked
+V0138,Jupiter Components Pvt Ltd,Office Supplies,2019-04-21,30,Active
+V0139,Crest Industries Pvt Ltd,Manufacturing,2024-07-22,30,Inactive
+V0140,Evergreen Enterprises Pvt Ltd,Office Supplies,2024-01-29,15,Active
+V0141,Global Supplies Pvt Ltd,Professional Services,2020-03-28,15,Active
+V0142,Apex Systems Pvt Ltd,Utilities,2024-11-01,30,Active
+V0143,Apex Supplies Pvt Ltd,Facilities,2019-07-03,15,Active
+V0144,Crest Supplies Pvt Ltd,Professional Services,2018-08-25,30,Active
+V0145,Crest Enterprises Pvt Ltd,Utilities,2024-05-10,60,Active
+V0146,Crest Services Pvt Ltd,Manufacturing,2021-01-25,60,Active
+V0147,Fusion Logistics Pvt Ltd,Office Supplies,2018-07-08,45,Active
+V0148,Global Enterprises Pvt Ltd,IT Services,2024-03-10,30,Active
+V0149,Apex Services Pvt Ltd,Logistics,2019-10-08,30,Active
+V0150,Apex Logistics Pvt Ltd,Office Supplies,2019-03-09,45,Active
+V0151,Jupiter Supplies Pvt Ltd,Office Supplies,2021-08-02,45,Active
+V0152,Indus Enterprises Pvt Ltd,Facilities,2025-11-14,30,Active
+V0153,Crest Services Pvt Ltd,Logistics,2022-05-28,15,Active
+V0154,Apex Systems Pvt Ltd,Logistics,2021-07-09,15,Active
+V0155,Evergreen Solutions Pvt Ltd,IT Services,2019-01-29,30,Active
+V0156,Indus Logistics Pvt Ltd,Office Supplies,2024-05-07,15,Active
+V0157,Apex Enterprises Pvt Ltd,Manufacturing,2018-09-14,30,Active
+V0158,Horizon Enterprises Pvt Ltd,Logistics,2024-01-22,60,Active
+V0159,Crest Supplies Pvt Ltd,Manufacturing,2018-07-22,60,Active
+V0160,Evergreen Logistics Pvt Ltd,Logistics,2021-03-17,60,Active
+V0161,Bluewave Systems Pvt Ltd,IT Services,2024-07-18,30,Active
+V0162,Global Supplies Pvt Ltd,Professional Services,2024-01-16,30,Active
+V0163,Delta Components Pvt Ltd,Logistics,2018-05-29,30,Active
+V0164,Global Logistics Pvt Ltd,Logistics,2021-04-07,45,Active
+V0165,Jupiter Services Pvt Ltd,Professional Services,2024-12-07,15,Active
+V0166,Evergreen Components Pvt Ltd,Marketing,2023-06-07,45,Active
+V0167,Global Enterprises Pvt Ltd,IT Services,2019-07-09,15,Active
+V0168,Fusion Solutions Pvt Ltd,Manufacturing,2023-04-16,45,Active
+V0169,Apex Logistics Pvt Ltd,IT Services,2018-11-20,15,Active
+V0170,Horizon Components Pvt Ltd,Utilities,2022-06-21,30,Active
+V0171,Fusion Industries Pvt Ltd,Manufacturing,2024-09-06,30,Active
+V0172,Delta Components Pvt Ltd,Professional Services,2018-11-07,45,Active
+V0173,Crest Enterprises Pvt Ltd,Utilities,2024-07-02,45,Active
+V0174,Apex Logistics Pvt Ltd,Office Supplies,2019-06-18,30,Active
+V0175,Global Enterprises Pvt Ltd,Facilities,2022-01-11,30,Active
+V0176,Indus Enterprises Pvt Ltd,IT Services,2021-09-26,30,Active
+V0177,Bluewave Solutions Pvt Ltd,Utilities,2020-08-04,30,Active
+V0178,Delta Supplies Pvt Ltd,Marketing,2018-01-27,30,Active
+V0179,Global Enterprises Pvt Ltd,Facilities,2022-08-09,30,Active
+V0180,Global Services Pvt Ltd,Facilities,2018-08-06,30,Active
+V0181,Global Supplies Pvt Ltd,IT Services,2021-04-04,45,Active
+V0182,Apex Enterprises Pvt Ltd,IT Services,2018-04-15,30,Active
+V0183,Apex Systems Pvt Ltd,Professional Services,2021-07-02,15,Active
+V0184,Jupiter Solutions Pvt Ltd,Marketing,2019-07-03,30,Active
+V0185,Fusion Enterprises Pvt Ltd,Marketing,2024-02-12,45,Active
+V0186,Delta Enterprises Pvt Ltd,IT Services,2021-11-13,30,Active
+V0187,Jupiter Logistics Pvt Ltd,Facilities,2024-09-27,30,Active
+V0188,Crest Industries Pvt Ltd,Marketing,2019-04-16,60,Active
+V0189,Horizon Enterprises Pvt Ltd,Office Supplies,2019-05-07,30,Active
+V0190,Fusion Supplies Pvt Ltd,Facilities,2021-03-19,30,Inactive
+V0191,Apex Services Pvt Ltd,IT Services,2022-01-09,30,Active
+V0192,Apex Industries Pvt Ltd,IT Services,2018-07-06,15,Active
+V0193,Bluewave Industries Pvt Ltd,Professional Services,2019-11-30,60,Active
+V0194,Horizon Enterprises Pvt Ltd,Logistics,2025-12-16,60,Active
+V0195,Bluewave Logistics Pvt Ltd,Facilities,2022-03-09,30,Active
+V0196,Global Logistics Pvt Ltd,Manufacturing,2021-03-19,45,Active
+V0197,Delta Enterprises Pvt Ltd,Marketing,2024-09-23,30,Active
+V0198,Delta Components Pvt Ltd,Marketing,2022-11-05,30,Active
+V0199,Bluewave Industries Pvt Ltd,IT Services,2020-12-14,60,Active
+V0200,Apex Supplies Pvt Ltd,Logistics,2020-05-28,30,Active
+V0201,Horizon Enterprises Pvt Ltd,Office Supplies,2023-09-11,15,Active
+V0202,Indus Industries Pvt Ltd,Manufacturing,2023-05-08,60,Active
+V0203,Crest Industries Pvt Ltd,Manufacturing,2021-06-13,30,Active
+V0204,Apex Solutions Pvt Ltd,Professional Services,2025-01-06,30,Active
+V0205,Jupiter Solutions Pvt Ltd,Logistics,2018-10-17,15,Active
+V0206,Horizon Enterprises Pvt Ltd,Manufacturing,2022-01-14,30,Active
+V0207,Horizon Components Pvt Ltd,Utilities,2021-04-01,30,Active
+V0208,Fusion Solutions Pvt Ltd,Office Supplies,2023-04-03,45,Active
+V0209,Indus Components Pvt Ltd,IT Services,2018-06-25,30,Active
+V0210,Global Logistics Pvt Ltd,Marketing,2018-01-08,30,Active
+V0211,Fusion Services Pvt Ltd,Office Supplies,2025-05-04,60,Active
+V0212,Evergreen Industries Pvt Ltd,Facilities,2018-10-16,30,Active
+V0213,Apex Supplies Pvt Ltd,Office Supplies,2021-01-22,45,Active
+V0214,Bluewave Systems Pvt Ltd,Facilities,2021-04-26,30,Active
+V0215,Evergreen Components Pvt Ltd,Office Supplies,2022-09-09,30,Inactive
+V0216,Indus Enterprises Pvt Ltd,Utilities,2020-04-09,30,Active
+V0217,Fusion Systems Pvt Ltd,Professional Services,2019-03-12,30,Active
+V0218,Horizon Solutions Pvt Ltd,Office Supplies,2020-02-01,30,Active
+V0219,Apex Industries Pvt Ltd,Manufacturing,2022-08-04,30,Active
+V0220,Horizon Components Pvt Ltd,Manufacturing,2020-10-27,45,Active
+V0221,Horizon Services Pvt Ltd,IT Services,2024-04-18,45,Active
+V0222,Horizon Components Pvt Ltd,Facilities,2024-10-18,30,Active
+V0223,Fusion Components Pvt Ltd,Office Supplies,2018-05-05,60,Active
+V0224,Fusion Logistics Pvt Ltd,Manufacturing,2022-08-28,60,Active
+V0225,Delta Supplies Pvt Ltd,Facilities,2019-03-27,60,Active
+V0226,Horizon Supplies Pvt Ltd,IT Services,2020-06-23,30,Active
+V0227,Horizon Services Pvt Ltd,Facilities,2019-09-04,30,Active
+V0228,Horizon Supplies Pvt Ltd,Professional Services,2022-06-24,30,Active
+V0229,Horizon Supplies Pvt Ltd,Office Supplies,2023-09-11,30,Active
+V0230,Global Systems Pvt Ltd,IT Services,2024-10-05,30,Active
+V0231,Bluewave Solutions Pvt Ltd,Professional Services,2019-10-05,15,Active
+V0232,Crest Components Pvt Ltd,Logistics,2021-08-02,30,Active
+V0233,Apex Supplies Pvt Ltd,Office Supplies,2020-10-01,60,Active
+V0234,Apex Enterprises Pvt Ltd,Manufacturing,2023-03-27,15,Active
+V0235,Indus Components Pvt Ltd,Utilities,2023-10-06,15,Active
+V0236,Jupiter Industries Pvt Ltd,Professional Services,2019-05-10,15,Blocked
+V0237,Crest Solutions Pvt Ltd,Professional Services,2020-06-11,60,Active
+V0238,Indus Solutions Pvt Ltd,Manufacturing,2025-01-09,30,Active
+V0239,Evergreen Supplies Pvt Ltd,Office Supplies,2024-04-19,15,Active
+V0240,Evergreen Solutions Pvt Ltd,Office Supplies,2018-01-19,60,Active
+V0241,Jupiter Industries Pvt Ltd,Utilities,2018-07-09,15,Active
+V0242,Indus Industries Pvt Ltd,Professional Services,2021-08-23,15,Active
+V0243,Fusion Industries Pvt Ltd,Manufacturing,2025-10-14,30,Active
+V0244,Fusion Industries Pvt Ltd,Professional Services,2020-09-12,30,Active
+V0245,Evergreen Systems Pvt Ltd,Office Supplies,2020-05-11,60,Active
+V0246,Global Services Pvt Ltd,IT Services,2018-03-14,30,Active
+V0247,Horizon Logistics Pvt Ltd,IT Services,2020-11-27,30,Active
+V0248,Fusion Components Pvt Ltd,Facilities,2018-01-11,30,Inactive
+V0249,Bluewave Industries Pvt Ltd,Logistics,2023-09-10,45,Active
+V0250,Evergreen Services Pvt Ltd,IT Services,2022-12-02,60,Blocked
+V0251,Horizon Services Pvt Ltd,IT Services,2023-02-09,45,Active
+V0252,Jupiter Systems Pvt Ltd,Office Supplies,2022-03-08,30,Active
+V0253,Indus Systems Pvt Ltd,Professional Services,2018-06-20,60,Active
+V0254,Evergreen Logistics Pvt Ltd,Facilities,2018-02-17,45,Active
+V0255,Jupiter Industries Pvt Ltd,Logistics,2022-09-19,15,Inactive
+V0256,Apex Systems Pvt Ltd,Utilities,2025-01-23,30,Active
+V0257,Evergreen Components Pvt Ltd,Professional Services,2018-06-30,45,Active
+V0258,Apex Components Pvt Ltd,IT Services,2020-06-03,30,Active
+V0259,Apex Logistics Pvt Ltd,Logistics,2018-09-30,30,Active
+V0260,Fusion Components Pvt Ltd,Office Supplies,2020-03-21,30,Active
+V0261,Delta Industries Pvt Ltd,Professional Services,2025-01-27,30,Active
+V0262,Delta Enterprises Pvt Ltd,Professional Services,2020-07-15,30,Active
+V0263,Apex Solutions Pvt Ltd,Office Supplies,2025-07-26,30,Active
+V0264,Horizon Industries Pvt Ltd,Utilities,2019-08-16,45,Active
+V0265,Delta Enterprises Pvt Ltd,Manufacturing,2018-03-18,30,Active
+V0266,Crest Components Pvt Ltd,Facilities,2018-02-08,60,Active
+V0267,Crest Systems Pvt Ltd,Facilities,2022-09-19,15,Active
+V0268,Fusion Supplies Pvt Ltd,Office Supplies,2021-09-21,30,Active
+V0269,Jupiter Enterprises Pvt Ltd,IT Services,2025-12-08,30,Active
+V0270,Fusion Services Pvt Ltd,IT Services,2023-03-16,30,Active
+V0271,Bluewave Services Pvt Ltd,Office Supplies,2019-03-24,30,Active
+V0272,Fusion Logistics Pvt Ltd,Utilities,2025-05-11,60,Active
+V0273,Global Services Pvt Ltd,Facilities,2022-09-14,30,Active
+V0274,Evergreen Supplies Pvt Ltd,Manufacturing,2018-06-08,60,Active
+V0275,Evergreen Services Pvt Ltd,IT Services,2024-09-13,45,Active
+V0276,Global Enterprises Pvt Ltd,Logistics,2023-10-06,15,Active
+V0277,Horizon Logistics Pvt Ltd,IT Services,2021-04-14,45,Active
+V0278,Delta Services Pvt Ltd,Office Supplies,2021-04-15,60,Active
+V0279,Apex Systems Pvt Ltd,Professional Services,2021-09-25,15,Active
+V0280,Global Systems Pvt Ltd,Utilities,2022-11-05,30,Active
+V0281,Fusion Components Pvt Ltd,IT Services,2023-10-25,15,Blocked
+V0282,Bluewave Logistics Pvt Ltd,Facilities,2020-03-31,30,Active
+V0283,Evergreen Supplies Pvt Ltd,Utilities,2024-02-14,30,Active
+V0284,Bluewave Enterprises Pvt Ltd,Logistics,2023-01-27,60,Active
+V0285,Indus Systems Pvt Ltd,IT Services,2023-09-03,30,Active
+V0286,Delta Services Pvt Ltd,Office Supplies,2020-11-27,30,Inactive
+V0287,Crest Systems Pvt Ltd,Marketing,2018-02-22,30,Active
+V0288,Apex Components Pvt Ltd,Facilities,2024-10-06,45,Active
+V0289,Delta Supplies Pvt Ltd,Manufacturing,2018-06-06,45,Active
+V0290,Horizon Supplies Pvt Ltd,Marketing,2020-07-22,30,Active
+V0291,Fusion Enterprises Pvt Ltd,IT Services,2024-03-25,30,Active
+V0292,Jupiter Services Pvt Ltd,Office Supplies,2021-05-14,30,Active
+V0293,Horizon Logistics Pvt Ltd,Manufacturing,2025-11-12,45,Active
+V0294,Apex Supplies Pvt Ltd,Professional Services,2019-12-01,30,Active
+V0295,Apex Systems Pvt Ltd,Manufacturing,2023-08-17,15,Active
+V0296,Horizon Supplies Pvt Ltd,Utilities,2019-11-28,30,Active
+V0297,Jupiter Solutions Pvt Ltd,Logistics,2021-09-17,15,Active
+V0298,Bluewave Supplies Pvt Ltd,Manufacturing,2023-08-20,30,Blocked
+V0299,Evergreen Supplies Pvt Ltd,Manufacturing,2024-05-05,30,Active
+V0300,Apex Supplies Pvt Ltd,Utilities,2023-05-12,30,Active
+V0301,Delta Systems Pvt Ltd,Facilities,2025-07-21,30,Active
+V0302,Evergreen Enterprises Pvt Ltd,Utilities,2019-10-03,30,Active
+V0303,Delta Systems Pvt Ltd,Logistics,2023-12-01,60,Active
+V0304,Evergreen Industries Pvt Ltd,IT Services,2018-02-20,30,Active
+V0305,Fusion Systems Pvt Ltd,IT Services,2022-01-26,60,Active
+V0306,Global Solutions Pvt Ltd,Professional Services,2023-11-12,30,Active
+V0307,Delta Components Pvt Ltd,Marketing,2022-06-26,60,Active
+V0308,Apex Components Pvt Ltd,Marketing,2022-08-27,60,Active
+V0309,Bluewave Components Pvt Ltd,Utilities,2019-11-12,60,Active
+V0310,Global Solutions Pvt Ltd,Logistics,2022-01-30,30,Active
+V0311,Jupiter Logistics Pvt Ltd,Logistics,2024-11-21,60,Active
+V0312,Global Solutions Pvt Ltd,Professional Services,2018-01-31,60,Active
+V0313,Evergreen Logistics Pvt Ltd,Office Supplies,2025-08-24,45,Active
+V0314,Indus Industries Pvt Ltd,Marketing,2018-06-12,30,Active
+V0315,Crest Services Pvt Ltd,Utilities,2022-10-29,30,Active
+V0316,Delta Solutions Pvt Ltd,Marketing,2020-12-29,30,Active
+V0317,Global Enterprises Pvt Ltd,IT Services,2024-07-08,45,Active
+V0318,Global Solutions Pvt Ltd,IT Services,2021-02-16,60,Active
+V0319,Apex Industries Pvt Ltd,Facilities,2018-03-22,30,Active
+V0320,Horizon Components Pvt Ltd,Manufacturing,2021-02-17,45,Active
+V0321,Evergreen Services Pvt Ltd,Professional Services,2020-06-19,45,Active
+V0322,Bluewave Logistics Pvt Ltd,Manufacturing,2025-10-01,60,Active
+V0323,Bluewave Industries Pvt Ltd,Facilities,2022-09-11,30,Active
+V0324,Bluewave Services Pvt Ltd,Utilities,2019-09-23,30,Active
+V0325,Bluewave Enterprises Pvt Ltd,Marketing,2019-12-29,30,Active
+V0326,Crest Services Pvt Ltd,Professional Services,2018-06-24,60,Blocked
+V0327,Indus Services Pvt Ltd,Manufacturing,2019-05-03,30,Active
+V0328,Bluewave Supplies Pvt Ltd,Professional Services,2022-02-27,30,Active
+V0329,Horizon Industries Pvt Ltd,Facilities,2021-08-11,30,Active
+V0330,Fusion Logistics Pvt Ltd,Marketing,2025-09-18,30,Active
+V0331,Bluewave Logistics Pvt Ltd,Logistics,2019-06-19,30,Active
+V0332,Fusion Components Pvt Ltd,Office Supplies,2025-08-14,30,Active
+V0333,Jupiter Enterprises Pvt Ltd,Facilities,2020-01-14,60,Active
+V0334,Apex Logistics Pvt Ltd,Marketing,2019-03-21,30,Active
+V0335,Delta Solutions Pvt Ltd,Professional Services,2022-08-17,15,Active
+V0336,Crest Components Pvt Ltd,IT Services,2020-12-19,15,Active
+V0337,Evergreen Supplies Pvt Ltd,Office Supplies,2025-12-16,45,Active
+V0338,Fusion Services Pvt Ltd,Office Supplies,2025-09-01,60,Active
+V0339,Delta Supplies Pvt Ltd,Office Supplies,2019-02-16,60,Inactive
+V0340,Fusion Logistics Pvt Ltd,Marketing,2021-05-30,30,Active
+V0341,Apex Components Pvt Ltd,Utilities,2019-09-25,60,Active
+V0342,Indus Systems Pvt Ltd,Utilities,2024-04-23,30,Inactive
+V0343,Horizon Industries Pvt Ltd,Office Supplies,2020-04-28,15,Active
+V0344,Fusion Industries Pvt Ltd,Utilities,2021-07-11,30,Active
+V0345,Evergreen Logistics Pvt Ltd,Utilities,2025-09-17,30,Active
+V0346,Bluewave Enterprises Pvt Ltd,Office Supplies,2023-10-06,30,Active
+V0347,Horizon Components Pvt Ltd,Office Supplies,2025-09-21,60,Active
+V0348,Crest Components Pvt Ltd,Logistics,2025-01-27,15,Active
+V0349,Indus Enterprises Pvt Ltd,Utilities,2022-02-08,30,Active
+V0350,Apex Services Pvt Ltd,Professional Services,2021-08-30,30,Active
+V0351,Global Enterprises Pvt Ltd,Marketing,2025-05-05,60,Active
+V0352,Fusion Components Pvt Ltd,IT Services,2019-02-01,15,Active
+V0353,Bluewave Industries Pvt Ltd,Professional Services,2019-12-21,45,Active
+V0354,Crest Enterprises Pvt Ltd,IT Services,2022-11-18,15,Active
+V0355,Horizon Industries Pvt Ltd,Professional Services,2023-09-16,45,Active
+V0356,Crest Logistics Pvt Ltd,Marketing,2023-09-26,30,Active
+V0357,Evergreen Enterprises Pvt Ltd,Office Supplies,2025-12-26,30,Active
+V0358,Fusion Components Pvt Ltd,Office Supplies,2024-03-09,30,Active
+V0359,Apex Enterprises Pvt Ltd,IT Services,2022-08-22,15,Active
+V0360,Global Industries Pvt Ltd,Facilities,2025-05-14,30,Active
+V0361,Indus Enterprises Pvt Ltd,Marketing,2023-10-29,30,Active
+V0362,Apex Systems Pvt Ltd,Manufacturing,2020-06-17,60,Active
+V0363,Jupiter Solutions Pvt Ltd,Marketing,2020-11-13,60,Active
+V0364,Jupiter Components Pvt Ltd,Office Supplies,2019-11-24,30,Active
+V0365,Indus Services Pvt Ltd,Marketing,2020-04-25,30,Active
+V0366,Delta Components Pvt Ltd,Professional Services,2024-12-19,30,Active
+V0367,Fusion Enterprises Pvt Ltd,IT Services,2024-06-05,30,Active
+V0368,Jupiter Enterprises Pvt Ltd,Facilities,2021-11-05,15,Active
+V0369,Jupiter Supplies Pvt Ltd,IT Services,2025-04-08,60,Active
+V0370,Delta Enterprises Pvt Ltd,IT Services,2019-02-28,30,Active
+V0371,Evergreen Enterprises Pvt Ltd,Manufacturing,2019-01-01,15,Active
+V0372,Crest Services Pvt Ltd,Logistics,2024-04-01,30,Active
+V0373,Apex Services Pvt Ltd,IT Services,2019-10-21,30,Active
+V0374,Bluewave Industries Pvt Ltd,Logistics,2022-01-13,15,Active
+V0375,Evergreen Components Pvt Ltd,IT Services,2022-02-17,30,Active
+V0376,Indus Solutions Pvt Ltd,Manufacturing,2021-01-31,45,Active
+V0377,Fusion Solutions Pvt Ltd,Manufacturing,2018-11-18,45,Active
+V0378,Delta Solutions Pvt Ltd,IT Services,2022-02-23,45,Active
+V0379,Global Services Pvt Ltd,Manufacturing,2020-03-15,15,Active
+V0380,Bluewave Components Pvt Ltd,Professional Services,2018-05-29,30,Active
+V0381,Delta Logistics Pvt Ltd,Marketing,2021-06-21,15,Active
+V0382,Horizon Components Pvt Ltd,Logistics,2024-01-08,45,Active
+V0383,Apex Services Pvt Ltd,Professional Services,2021-09-15,30,Active
+V0384,Horizon Services Pvt Ltd,Facilities,2021-10-21,60,Active
+V0385,Global Systems Pvt Ltd,Office Supplies,2025-10-23,30,Active
+V0386,Apex Systems Pvt Ltd,Manufacturing,2020-06-02,60,Active
+V0387,Indus Systems Pvt Ltd,Manufacturing,2023-08-16,30,Active
+V0388,Apex Systems Pvt Ltd,IT Services,2018-03-26,30,Active
+V0389,Indus Services Pvt Ltd,Logistics,2019-11-10,60,Active
+V0390,Global Industries Pvt Ltd,IT Services,2022-12-12,45,Active
+V0391,Bluewave Enterprises Pvt Ltd,Manufacturing,2024-06-17,30,Active
+V0392,Crest Industries Pvt Ltd,Marketing,2019-06-17,15,Active
+V0393,Bluewave Logistics Pvt Ltd,Utilities,2021-10-16,45,Active
+V0394,Global Services Pvt Ltd,Office Supplies,2018-02-27,30,Active
+V0395,Indus Solutions Pvt Ltd,Manufacturing,2022-12-27,15,Active
+V0396,Indus Systems Pvt Ltd,Facilities,2025-12-12,60,Active
+V0397,Jupiter Logistics Pvt Ltd,Professional Services,2023-07-22,45,Active
+V0398,Global Logistics Pvt Ltd,Professional Services,2022-10-21,30,Active
+V0399,Horizon Industries Pvt Ltd,Marketing,2022-07-01,60,Active
+V0400,Indus Enterprises Pvt Ltd,Manufacturing,2018-11-25,30,Active
+V0401,Bluewave Solutions Pvt Ltd,Logistics,2021-09-12,30,Active
+V0402,Jupiter Industries Pvt Ltd,Manufacturing,2025-01-31,30,Active
+V0403,Horizon Logistics Pvt Ltd,Office Supplies,2025-01-09,45,Active
+V0404,Horizon Enterprises Pvt Ltd,Marketing,2023-11-12,60,Active
+V0405,Delta Solutions Pvt Ltd,Facilities,2019-10-23,45,Active
+V0406,Indus Logistics Pvt Ltd,Facilities,2022-05-09,30,Active
+V0407,Crest Enterprises Pvt Ltd,Marketing,2024-01-23,60,Active
+V0408,Bluewave Services Pvt Ltd,Facilities,2024-11-22,60,Active
+V0409,Delta Systems Pvt Ltd,IT Services,2024-04-02,30,Active
+V0410,Horizon Logistics Pvt Ltd,Utilities,2018-04-10,60,Active
+V0411,Horizon Components Pvt Ltd,Office Supplies,2019-01-14,15,Active
+V0412,Jupiter Logistics Pvt Ltd,Logistics,2024-09-23,15,Active
+V0413,Indus Logistics Pvt Ltd,Utilities,2020-04-07,60,Active
+V0414,Evergreen Enterprises Pvt Ltd,Manufacturing,2019-05-05,15,Active
+V0415,Delta Services Pvt Ltd,Marketing,2022-05-17,30,Active
+V0416,Crest Enterprises Pvt Ltd,IT Services,2020-09-20,30,Active
+V0417,Horizon Systems Pvt Ltd,Office Supplies,2021-08-31,15,Active
+V0418,Horizon Logistics Pvt Ltd,Office Supplies,2018-01-18,30,Active
+V0419,Fusion Supplies Pvt Ltd,Utilities,2020-07-17,30,Active
+V0420,Indus Solutions Pvt Ltd,Facilities,2021-12-26,30,Active
+V0421,Evergreen Components Pvt Ltd,Marketing,2024-09-19,30,Active
+V0422,Fusion Components Pvt Ltd,Marketing,2023-10-31,45,Active
+V0423,Evergreen Logistics Pvt Ltd,IT Services,2018-06-25,60,Active
+V0424,Global Industries Pvt Ltd,Manufacturing,2023-01-29,45,Active
+V0425,Fusion Systems Pvt Ltd,Office Supplies,2022-01-14,30,Active
+V0426,Bluewave Services Pvt Ltd,Professional Services,2018-02-14,45,Active
+V0427,Apex Systems Pvt Ltd,Professional Services,2021-06-19,45,Inactive
+V0428,Evergreen Solutions Pvt Ltd,Logistics,2023-03-04,30,Active
+V0429,Horizon Solutions Pvt Ltd,Professional Services,2019-08-11,30,Active
+V0430,Apex Supplies Pvt Ltd,Professional Services,2023-07-06,30,Active
+V0431,Apex Systems Pvt Ltd,Utilities,2018-08-19,15,Active
+V0432,Jupiter Services Pvt Ltd,Professional Services,2024-01-06,30,Active
+V0433,Indus Components Pvt Ltd,Office Supplies,2024-08-06,45,Active
+V0434,Bluewave Industries Pvt Ltd,Utilities,2023-09-04,30,Active
+V0435,Jupiter Enterprises Pvt Ltd,Manufacturing,2024-04-17,30,Active
+V0436,Indus Logistics Pvt Ltd,Office Supplies,2019-09-15,30,Active
+V0437,Indus Solutions Pvt Ltd,Utilities,2021-03-30,60,Active
+V0438,Horizon Supplies Pvt Ltd,Office Supplies,2019-07-11,30,Active
+V0439,Delta Industries Pvt Ltd,Professional Services,2018-07-24,30,Active
+V0440,Global Systems Pvt Ltd,Professional Services,2020-09-29,15,Active
+V0441,Jupiter Services Pvt Ltd,Logistics,2020-12-05,60,Active
+V0442,Crest Logistics Pvt Ltd,Utilities,2020-11-18,30,Active
+V0443,Fusion Logistics Pvt Ltd,Logistics,2018-01-08,30,Active
+V0444,Apex Solutions Pvt Ltd,IT Services,2020-01-26,45,Active
+V0445,Jupiter Systems Pvt Ltd,IT Services,2020-01-06,45,Active
+V0446,Horizon Services Pvt Ltd,Manufacturing,2025-08-11,15,Active
+V0447,Indus Systems Pvt Ltd,Office Supplies,2024-07-21,30,Active
+V0448,Jupiter Systems Pvt Ltd,IT Services,2023-03-08,30,Active
+V0449,Evergreen Logistics Pvt Ltd,IT Services,2020-01-18,30,Active
+V0450,Crest Solutions Pvt Ltd,Facilities,2018-11-24,15,Active
+V0451,Apex Solutions Pvt Ltd,IT Services,2018-12-17,30,Active
+V0452,Indus Components Pvt Ltd,Facilities,2018-01-20,45,Active
+V0453,Horizon Systems Pvt Ltd,Utilities,2025-09-10,30,Active
+V0454,Evergreen Industries Pvt Ltd,IT Services,2025-03-16,45,Active
+V0455,Horizon Systems Pvt Ltd,Utilities,2025-03-26,15,Active
+V0456,Indus Services Pvt Ltd,IT Services,2025-11-10,30,Active
+V0457,Global Services Pvt Ltd,Logistics,2024-06-18,30,Active
+V0458,Bluewave Enterprises Pvt Ltd,Logistics,2020-05-19,30,Active
+V0459,Horizon Components Pvt Ltd,Office Supplies,2020-03-15,60,Active
+V0460,Crest Services Pvt Ltd,Logistics,2021-04-01,30,Active
+V0461,Bluewave Systems Pvt Ltd,Office Supplies,2024-07-17,30,Active
+V0462,Apex Solutions Pvt Ltd,Marketing,2024-08-25,30,Active
+V0463,Jupiter Services Pvt Ltd,IT Services,2022-11-13,15,Active
+V0464,Bluewave Components Pvt Ltd,Office Supplies,2023-01-20,60,Active
+V0465,Evergreen Solutions Pvt Ltd,Manufacturing,2023-03-16,30,Active
+V0466,Horizon Services Pvt Ltd,Facilities,2019-06-28,30,Active
+V0467,Apex Logistics Pvt Ltd,Logistics,2018-12-29,30,Inactive
+V0468,Horizon Supplies Pvt Ltd,Marketing,2018-11-27,45,Active
+V0469,Horizon Industries Pvt Ltd,Logistics,2020-03-12,60,Active
+V0470,Crest Components Pvt Ltd,Facilities,2022-05-21,15,Active
+V0471,Indus Services Pvt Ltd,Professional Services,2019-02-06,15,Active
+V0472,Crest Systems Pvt Ltd,Professional Services,2023-05-13,45,Active
+V0473,Indus Logistics Pvt Ltd,Professional Services,2024-02-14,45,Active
+V0474,Apex Logistics Pvt Ltd,Office Supplies,2022-11-21,30,Active
+V0475,Bluewave Systems Pvt Ltd,Professional Services,2021-05-01,60,Active
+V0476,Delta Logistics Pvt Ltd,Professional Services,2023-05-03,60,Active
+V0477,Apex Industries Pvt Ltd,Manufacturing,2018-02-13,30,Active
+V0478,Global Systems Pvt Ltd,Utilities,2019-06-27,15,Active
+V0479,Crest Components Pvt Ltd,Facilities,2021-08-16,30,Active
+V0480,Jupiter Enterprises Pvt Ltd,Office Supplies,2019-09-07,45,Active
+V0481,Delta Supplies Pvt Ltd,Utilities,2021-08-28,45,Active
+V0482,Indus Enterprises Pvt Ltd,IT Services,2018-01-18,60,Active
+V0483,Apex Enterprises Pvt Ltd,Logistics,2018-06-07,30,Active
+V0484,Indus Components Pvt Ltd,Marketing,2019-07-16,30,Active
+V0485,Global Components Pvt Ltd,Office Supplies,2023-02-25,15,Active
+V0486,Indus Services Pvt Ltd,Marketing,2018-09-08,30,Active
+V0487,Jupiter Systems Pvt Ltd,Logistics,2020-05-18,30,Active
+V0488,Evergreen Industries Pvt Ltd,Professional Services,2022-07-14,15,Active
+V0489,Apex Logistics Pvt Ltd,Office Supplies,2021-05-04,60,Active
+V0490,Bluewave Solutions Pvt Ltd,Utilities,2024-08-25,15,Active
+V0491,Apex Logistics Pvt Ltd,Professional Services,2021-11-02,30,Active
+V0492,Evergreen Components Pvt Ltd,Utilities,2023-04-23,60,Active
+V0493,Evergreen Logistics Pvt Ltd,IT Services,2023-05-23,60,Active
+V0494,Global Industries Pvt Ltd,Office Supplies,2024-03-08,15,Inactive
+V0495,Indus Enterprises Pvt Ltd,Utilities,2021-09-03,30,Active
+V0496,Jupiter Logistics Pvt Ltd,Marketing,2023-02-15,30,Active
+V0497,Horizon Services Pvt Ltd,Logistics,2023-01-08,30,Active
+V0498,Apex Industries Pvt Ltd,Manufacturing,2022-08-10,45,Active
+V0499,Crest Supplies Pvt Ltd,IT Services,2021-12-16,15,Active
+V0500,Apex Logistics Pvt Ltd,Utilities,2025-12-19,45,Active

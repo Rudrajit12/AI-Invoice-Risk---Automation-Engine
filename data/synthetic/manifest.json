@@ -1,0 +1,21 @@
+{
+  "seed": 20260911,
+  "counts": {
+    "vendors": 500,
+    "purchase_orders": 5000,
+    "goods_receipts": 8000,
+    "invoices": 10000,
+    "payments": 10000
+  },
+  "invoice_scenarios": {
+    "amount_anomaly": 300,
+    "duplicate": 400,
+    "invalid_po": 250,
+    "invalid_vendor": 150,
+    "late_invoice": 150,
+    "normal": 7200,
+    "price_mismatch": 700,
+    "quantity_mismatch": 550,
+    "tax_inconsistency": 300
+  }
+}
