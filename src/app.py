@@ -25,18 +25,19 @@ st.set_page_config(
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUTS = ROOT / "outputs"
 DATA = ROOT / "data"
+SEARCH_ROOTS = tuple(dict.fromkeys((ROOT, Path(__file__).resolve().parent, Path.cwd())))
 
 # ---------- Utilities ----------
 
 def find_file(filename: str):
-    candidates = [
-        OUTPUTS / filename,
-        DATA / filename,
-        ROOT / filename,
-        Path.cwd() / "outputs" / filename,
-        Path.cwd() / "data" / filename,
-        Path.cwd() / filename,
-    ]
+    candidates = []
+    for root in SEARCH_ROOTS:
+        candidates.extend((
+            root / "outputs" / filename,
+            root / "data" / filename,
+            root / "data" / "synthetic" / filename,
+            root / filename,
+        ))
     for p in candidates:
         if p.exists():
             return p
@@ -71,8 +72,9 @@ def load_data():
         else:
             data[key] = None
 
-    # The control ledger is the preferred source for operational pages.
-    # If it is absent, construct a lightweight fallback from the supplied
+    # The scored ledger is the preferred source for operational pages.
+    # If generated outputs are absent (for example, on Streamlit Cloud),
+    # construct a lightweight fallback from the supplied
     # invoice + vendor + PO + receipt + payment data.
     if data["ledger"] is None and data["invoices"] is not None:
         data["ledger"] = build_fallback_ledger(data)
@@ -274,6 +276,12 @@ def contains_flag(series, flag):
 # ---------- Load ----------
 
 data = load_data()
+if data["ledger"] is None:
+    st.error(
+        "No invoice ledger was found. Deploy the repository's data/ folder "
+        "or generate outputs/invoice_risk_ledger.csv before starting the app."
+    )
+    st.stop()
 ledger = normalize_ledger(data["ledger"])
 
 # Keep an original row-level copy for diagnostics.
