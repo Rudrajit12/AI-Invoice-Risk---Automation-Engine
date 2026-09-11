@@ -1172,6 +1172,28 @@ It is **not intended to provide financial, accounting, fraud, or payment advice*
 
 ---
 
+## 🚀 Live Demo
+
+### Try the AI Invoice Control Tower
+
+**[👉 Launch the Live Streamlit App](https://ai-invoice-risk---automation-engine-chww9kshl7cakrmqd86amg.streamlit.app/)**
+
+Explore the deployed application to see how the system combines:
+
+* 📊 **Executive AP Dashboard**
+* 🚨 **Exception Command Center**
+* 🔎 **Invoice Investigation**
+* 🏢 **Vendor Intelligence**
+* 🤖 **Automation Performance**
+* 🕵️ **Duplicate & Anomaly Detection**
+* 📈 **Invoice Risk Scoring & Model Evaluation**
+* 💡 **Evidence-Grounded Explanations**
+
+> **Note:** This application uses synthetic invoice, vendor, purchase-order, goods-receipt, and payment data for portfolio demonstration purposes.
+
+
+---
+
 ## Author
 
 **Rudrajit Bhattacharyya**
